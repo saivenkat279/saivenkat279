@@ -62,3 +62,4 @@ To remove all Wordpress data, delete the named volumes by passing the `-v` param
 ```
 $ docker-compose down -v
 ```
+testing
